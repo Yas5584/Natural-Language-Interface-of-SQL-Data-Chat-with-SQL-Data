@@ -6,4 +6,5 @@ streamlit
 sqlite3
 pathlib
 os
-sqlachemy
+sqlalchemy
+dotenv
