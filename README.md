@@ -1,1 +1,0 @@
-# Naural-Language-Interface-of-SQL-Data-Chat-with-SQL-Data

@@ -1,0 +1,9 @@
+langchain
+langchain_groq
+langchain_community
+langchain_core
+streamlit
+sqlite3
+pathlib
+os
+sqlachemy
