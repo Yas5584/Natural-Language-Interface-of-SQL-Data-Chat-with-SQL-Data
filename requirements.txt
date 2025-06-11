@@ -5,6 +5,6 @@ langchain_core
 streamlit
 
 pathlib
-os
+
 sqlalchemy
 dotenv
